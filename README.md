@@ -1,4 +1,4 @@
-<h1 style="margin:10px; align: center;">Hi, I'm Rhiannon Hayes</h1>
+<h1 style="margin:10px; text-align:center;">Hi, I'm Rhiannon Hayes</h1>
 ### A Creative Full Stack Web Developer
 
 <!--
