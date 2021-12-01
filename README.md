@@ -1,5 +1,13 @@
-<h1 style="text-align:center;">Hi, I'm Rhiannon Hayes</h1>
-### A Creative Full Stack Web Developer
+<div align="center">
+  <h1 style="text-align:center;">Hi, I'm Rhiannon Hayes</h1>
+    <p style="text-align:center;">A Creative Full Stack Developer</p>
+</div>
+
+
+
+
+
+
 
 <!--
 **RhiHayes/RhiHayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
