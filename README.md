@@ -2,6 +2,27 @@
   <h1>♡ Hi, I'm Rhiannon Hayes ♡<br><br>🎨 A Creative Full Stack Developer 🖌️ </h1>
 </div>
 
+<div>
+  <h2> ProjectHub - Check out my live projects! </h2>
+  
+  <p>-----------------------------------------------------------------</p>
+  <p><strong>Movie Project 🎬</strong><br><br>Live Site | Repository</p>
+  
+  <p>-----------------------------------------------------------------</p>
+  <p><strong>Weather Project 🌤</strong><br><br>Live Site | Repository</p>
+  
+  <p>-----------------------------------------------------------------</p>
+  <p><strong>Coffee Project ☕</strong><br><br>Live Site | Repository</p>
+  
+   <p>-----------------------------------------------------------------</p>
+  <p><strong>Codeup Design Project 🏆</strong><br><br>Live Site | Repository</p>
+  
+  <p>-----------------------------------------------------------------</p>
+  <p><strong>Tindog 🐾</strong><br><br>Live Site | Repository</p>
+  <p>-----------------------------------------------------------------</p>
+  
+</div>
+
 
 
 
