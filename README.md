@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Rhiannon Hayes
+### A Creative Full Stack Web Developer
 
 <!--
 **RhiHayes/RhiHayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
