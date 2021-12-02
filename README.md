@@ -17,7 +17,7 @@
   <p><strong>Professional Website / Digital Resume 📄</strong><br><br><a href="https://rhihayes.github.io/">Live Site</a> | <a href="https://github.com/RhiHayes/personal-projects-html-css-boot">Repository</a></p>
   
   <p>-----------------------------------------------------------------------------</p>
-  <p><strong>RhiDesigns / Art Portfolio 💝</strong><br><br><a href="https://rhidesigns.art/">Live Site</a> | <a href="https://github.com/RhiHayes/personal-projects-html-css-boot">Repository</a></p>
+  <p><strong>RhiDesigns / Art Portfolio 🎨</strong><br><br><a href="https://rhidesigns.art/">Live Site</a> | <a href="https://github.com/RhiHayes/personal-projects-html-css-boot">Repository</a></p>
   <p>-----------------------------------------------------------------------------</p>
   
 </div>
