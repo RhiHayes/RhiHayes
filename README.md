@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>♡ Hi, I'm Rhiannon Hayes ♡<br><br>🎨 A Creative Full Stack Developer 🖌️ </h1>
+  <h1>Hi, I'm Rhiannon Hayes <br><br>🎨 A Creative Full Stack Developer 🖌️ </h1>
   
 </div>
 
