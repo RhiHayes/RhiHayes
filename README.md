@@ -4,7 +4,7 @@
 </div>
 
   
-  | 🌸 Turn inspiration...  | ...into creation 🌌 |
+  | 🌸 Turning inspiration...  | ...into creation 🌌 |
 | ------------- | ------------- |
 | ![Alt Text](https://i.pinimg.com/originals/d2/89/57/d289575548d9ccac8c8db588ff398967.gif)  | [![RhiHayes's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhihayes&show_icons=true&theme=dracula)](https://github.com/rhihayes/github-readme-stats)  |
 
