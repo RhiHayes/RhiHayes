@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Rhiannon Hayes <br><br>A Creative Full Stack Developer</h1>
-  
 </div>
 
   
@@ -13,12 +12,12 @@
 <div align="center">
   <h2>About Me - Find out more! </h2>
   
-  <p>-----------------------------------------------------------------------------</p>
+  <hr>
   <p><strong>Professional Website / Digital Resume 📄</strong><br><br><a href="https://rhihayes.github.io/">Live Site</a> | <a href="https://github.com/RhiHayes/personal-projects-html-css-boot">Repository</a></p>
   
-  <p>-----------------------------------------------------------------------------</p>
+  <hr>
   <p><strong>RhiDesigns / Art Portfolio 🎨</strong><br><br><a href="https://rhidesigns.art/">Live Site</a> | <a href="https://github.com/RhiHayes/personal-projects-html-css-boot">Repository</a></p>
-  <p>-----------------------------------------------------------------------------</p>
+  <hr>
   
 </div>
 
@@ -26,21 +25,23 @@
 <div align="center">
   <h2> ProjectHub - Check out my live projects!</h2>
   
-  <p>-----------------------------------------------------</p>
+  <hr>
+  
   <p><strong>Movie Project 🎬</strong><br><br><a href="https://rhidesigns-4.art/">Live Site</a> | <a href="https://github.com/Fraser-Hayes-Movie-Project/Movie-Project">Repository</p></a>
   
-  <p>-----------------------------------------------------</p>
+  <hr>
+  
   <p><strong>Weather Project 🌤</strong><br><br><a href="https://rhidesigns-3.art/">Live Site</a> | <a href="https://github.com/RhiHayes/codeup-web-exercises">Repository</a></p>
   
-  <p>-----------------------------------------------------</p>
+  <hr>
   <p><strong>Coffee Project ☕</strong><br><br><a href="https://rhidesigns-1.art/">Live Site</a> | <a href="https://github.com/mcconihay-hayes-coffee-project/coffee-project">Repository</a></p>
   
-  <p>-----------------------------------------------------</p>
+  <hr>
   <p><strong>Codeup Design Project 🏆</strong><br><br><a href="https://rhidesigns-2.art/">Live Site</a> | <a href="https://github.com/hayes-riley-quasar-design-project/hayes-riley-codeup-design">Repository</a></p>
   
-  <p>-----------------------------------------------------</p>
+  <hr>
   <p><strong>Tindog 🐾</strong><br><br><a href="https://rhidesigns-5.art/">Live Site</a> | <a href="https://github.com/RhiHayes/web-developer-bootcamp-udemy">Repository</a></p>
-  <p>-----------------------------------------------------</p>
+  <hr>
   
 </div>
 
