@@ -30,11 +30,9 @@
   
   <p><strong>Coffee Project ☕</strong><br><br><a href="https://rhidesigns-1.art/">Live Site</a> | <a href="https://github.com/mcconihay-hayes-coffee-project/coffee-project">Repository</a></p>
   
+  <br>
   
-<!--   <p><strong>Codeup Design Project 🏆</strong><br><br><a href="https://rhidesigns-2.art/">Live Site</a> | <a href="https://github.com/hayes-riley-quasar-design-project/hayes-riley-codeup-design">Repository</a></p>
-  
-  
-  <p><strong>Tindog 🐾</strong><br><br><a href="https://rhidesigns-5.art/">Live Site</a> | <a href="https://github.com/RhiHayes/web-developer-bootcamp-udemy">Repository</a></p> -->
+  <p><strong>Tindog 🐾</strong><br><br><a href="https://rhidesigns-5.art/">Live Site</a> | <a href="https://github.com/RhiHayes/web-developer-bootcamp-udemy">Repository</a></p> 
   
 </div>
 
