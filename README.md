@@ -1,11 +1,18 @@
 <div align="center">
   <h1>Hi, I'm Rhiannon Hayes <br><br>A Creative Full Stack Developer</h1>
 </div>
+<br>
+
+<div align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
+  </div>
 
   
-  | 🌸 Turning inspiration...  | ...into creation 🌌 |
+<!--   | 🌸 Turning inspiration...  | ...into creation 🌌 |
 | ------------- | ------------- |
-| ![Alt Text](https://i.pinimg.com/originals/d2/89/57/d289575548d9ccac8c8db588ff398967.gif)  | [![RhiHayes's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhihayes&show_icons=true&theme=dracula)](https://github.com/rhihayes/github-readme-stats)  |
+| ![Alt Text](https://i.pinimg.com/originals/d2/89/57/d289575548d9ccac8c8db588ff398967.gif)  | [![RhiHayes's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhihayes&show_icons=true&theme=dracula)](https://github.com/rhihayes/github-readme-stats)  | -->
+
+<br>
 
 <div align="center">
   <h2> ProjectHub - Check out my live projects!</h2>
