@@ -37,6 +37,10 @@
   <p><strong>RhiDesigns / Art Portfolio 🎨</strong><br><br><a href="https://rhidesigns.art/">Live Site</a> | <a href="https://github.com/RhiHayes/personal-projects-html-css-boot">Repository</a></p>
   
   <br>
+
+   <p><strong>Sew Lovely 👕</strong><br><br><a href="https://rhihayes.github.io/sew-lovely/#/">Live Site</a> | <a href="https://github.com/RhiHayes/sew-lovely">Repository</a></p>
+  
+  <br>
   
   <p><strong>Movie Project 🎬</strong><br><br><a href="https://rhidesigns-4.art/">Live Site</a> | <a href="https://github.com/Fraser-Hayes-Movie-Project/Movie-Project">Repository</p></a>
   
