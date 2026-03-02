@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>🌸 Turning inspiration...into creation 🌌</h1>
- <img align="center" src="https://i.ibb.co/7JmHKSyX/Screen-Shot-2026-02-21-at-7-20-38-PM.png" alt="rhiannon" />
+ <img align="center" src="https://i.ibb.co/x8cc4wQ4/Screenshot-2026-03-02-at-9-50-54-AM.png" alt="rhiannon" />
 
 <h3> Open to any questions or opportunities! Find my resume <a href="https://rhiannon-resume.netlify.app/">here.</a></h3> 
   </div>
